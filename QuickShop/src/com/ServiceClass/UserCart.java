@@ -1,6 +1,6 @@
 package com.ServiceClass;
 
-//Author : Sachin Girnare
+
 
 public class UserCart {
 
