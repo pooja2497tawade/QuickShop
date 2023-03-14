@@ -9,8 +9,7 @@ import com.DatabaseRelated.UserDataDB;
 import com.ServiceClass.UserCart;
 import com.ServiceClass.UserData;
 
-//Author : Main methods :  Sachin Girnare 
-//         Supporting methods : Pooja Tawade
+
 
 public class User {
 	Scanner scanner = new Scanner(System.in);
