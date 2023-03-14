@@ -9,7 +9,6 @@ import java.util.ArrayList;
 import com.ServiceClass.Order;
 
 //Author : Pooja Tawade
-//I really appreciate your team efforts
 public class OrderDataDB {
 	
 	//get order data from orderdata database and return arraylist 
