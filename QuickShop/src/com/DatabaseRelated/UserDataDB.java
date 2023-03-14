@@ -7,7 +7,6 @@ import java.sql.ResultSet;
 import java.util.ArrayList;
 import com.ServiceClass.UserData;
 
-//Author : Ankit Panchal
 
 public class UserDataDB {
 	
