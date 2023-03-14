@@ -1,6 +1,5 @@
 package com.Main;
 
-//Author : Ankit Panchal
 
 //stores admin username and password here for aunthetication
 public class AdminDetails {
