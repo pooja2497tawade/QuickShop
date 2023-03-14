@@ -1,12 +1,5 @@
 package com.ServiceClass;
 
-// Author : Mahendra Gothankar
-/*
- * you guys are doing good but need some more improvement.
- * try to do more hands-on for coding min 4-5 hours,
- * 3 hours for reading, 2 hours for mock disucssion,
- * presentation etc. eveyone will get good job.
- */
 public class Product {
 	private int product_id;
 	private String product_name;
