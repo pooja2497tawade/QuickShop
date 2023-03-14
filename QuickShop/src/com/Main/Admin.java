@@ -9,11 +9,9 @@ import com.DatabaseRelated.UserDataDB;
 import com.ServiceClass.Product;
 import com.ServiceClass.UserData;
 
-//Author : Ankit Panchal , Pooja Tawade
-//Suggestion and doubts:  Mahendra Gothankar and Sachin Girnare
-
 
 public class Admin {
+	
 	//followed the naming convention- good job
 	Scanner scanner = new Scanner(System.in);
 	ProductDataDB productDataDB = new ProductDataDB();
