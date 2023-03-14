@@ -1,14 +1,5 @@
 package com.ServiceClass;
 
-//Author : Ankit Panchal
-//suggestion
-/*should be use of collection arraylist, hashmap,
-should be use of comparable and comparator interfaces
-should be use of custom exception.
-oops concepts
-properties file 
-should follow package naming convention, object naming convention standards
-*/
 public class UserData {
 	private int userId;
 	private String userName;
