@@ -2,7 +2,6 @@ package com.Main;
 
 import java.util.Scanner;
 
-//Author : Mahendra Gothankar and Sachin Girnare
 
 public class Entry {
 	//Method for HomeScreen After Start of application
