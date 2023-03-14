@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 import com.DatabaseRelated.UserDataDB;
 
-//Author : Mahendra Gothankar
 
 public class Register {
 	
