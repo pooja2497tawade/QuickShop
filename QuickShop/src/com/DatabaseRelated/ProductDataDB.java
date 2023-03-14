@@ -9,8 +9,7 @@ import java.util.ArrayList;
 import com.ServiceClass.Product;
 
 
-//Author : Ankit Panchal  - remaining get methods 
-//         Mahendra Gothankar - get product list and display
+
 
 public class ProductDataDB {
 	
